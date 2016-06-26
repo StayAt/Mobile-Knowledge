@@ -1,11 +1,11 @@
 # Mobile-Knowledge
 Mobile-Knowledge
 
-<img src="http://StayAt.org/icons/Knowledge161_161_01.jpg" alt="Knowledge161_161_01.jpg">   rel. 0.1
+<img src="http://StayAt.org/icons/Knowledge161_161_01.gif" alt="Knowledge161_161_01.gif">   rel. 0.1
 
 Maintain some Data in IBM Notes, xPages or on your mobile 
 
-<img src="http://StayAt.org/images/plx/Knowledge_iPhone.bmp" alt="Knowledge_iPhone.bmp">
+<img src="http://StayAt.org/images/plx/Knowledge_iPhone.gif" alt="Knowledge_iPhone.gif">
 
 Export it into a Flat Text File 
 
@@ -14,7 +14,7 @@ Export it into a Flat Text File
 
 for importing it into Confluence 
 
-<img src="http://StayAt.org/images/plx/Knowledge_Confluence.bmp" alt="Knowledge_Confluence.bmp">
+<img src="http://StayAt.org/images/plx/Knowledge_Confluence.gif" alt="Knowledge_Confluence.gif">
 
 
 DOWNLOAD .nsf
